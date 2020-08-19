@@ -1,0 +1,95 @@
+body{
+    background-color: pink;
+}
+.POLYGON1{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 418px 909px;
+clip-path: polygon(1.01% 38.33%, 1.01% 38.34%, 51.67% 36.68%, 11.00% 15.33%)          ;
+background-color: white;
+}
+.POLYGON2{
+    display: inline;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin: 436px 737px;
+    clip-path:polygon(70.01% 9.01%, 69.67% 9.33%, 37.00% 9.33%, 58% 32.67%);
+    background-color: gray;
+}
+
+.polygon3{
+    display: inline;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin: 461px 711px;
+    clip-path: polygon(46.02% 1.01%, 46.01% 0.66%, 27.67% 15.67%, 67.00% 23.67%);
+    background-color: brown;
+}
+
+.polygon4{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 404px 644px;
+clip-path: polygon(38.68% 0.67%, 50.68% 34.34%, 51% 34.68%, 67.66% 19.99%);
+background-color: orange;
+}
+.polygon5{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 337px 644px;
+clip-path: polygon(73.68% 21.34%, 38.69% 23.34%, 39% 23.35%, 68.33% 42.65%);
+background-color: green;
+}
+.polygon6{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 311px 644px;
+clip-path: polygon(54.68% 8.67%, 40.35% 32.01%, 73.67% 30.35%, 73.67% 29.99%);
+background-color: forestgreen;
+}
+.polygon7{
+    display: inline;
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    margin: 242px 546px;
+    clip-path: polygon(68.35% 24.8%, 68.02% 25.01%, 72.67% 33.35%, 87.33% 19.26%);
+    background-color: lightgreen;
+}
+.polygon8{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 500px;
+margin: 276px 496px;
+clip-path: polygon(65.35% 25%, 65.35% 24.81%, 89.00% 25.95%, 85.33% 18.26%);
+background-color: yellow;
+}
+.polygon9{
+    display: inline;
+position: absolute;
+width: 300px;
+height: 500px;
+margin: 494px 653px;
+clip-path: polygon(78.02% 18.8%, 78.02% 18.81%, 84.00% 21.55%, 85.66% 7.06%);
+background-color: orange;
+}
+.polygon10{
+    display: inline;
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    margin: 537px 653px;
+    clip-path: polygon(77.69% 10.4%, 77.68% 10.41%, 84.67% 13.15%, 50% 12.86%);
+    background-color: orange;
+}
